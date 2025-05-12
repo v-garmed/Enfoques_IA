@@ -16,11 +16,11 @@
 | `1.5 copy` | Clonado profundo de estructuras de datos, útil en algoritmos de planificación. |
 | `1.6 re` | Manejo de expresiones regulares para análisis léxico y extracción de información. |
 | `1.7 heapq` | Manejo de colas de prioridad, clave para algoritmos de búsqueda como A*. |
-| `queue` | Implementación de colas FIFO/LIFO, utilizadas en algoritmos de búsqueda y encadenamiento. |
-| `1.8 time` | Medición de tiempos de ejecución y simulaciones. |
-| `1.9 os` | Interacción con el sistema de archivos para lectura/escritura de datos. |
-| `1.10 json` | Manipulación de archivos JSON para almacenamiento estructurado de datos. |
-| `1.11 xml.etree.ElementTree` | Lectura y escritura de archivos XML, usados en conocimiento estructurado. |
+| `1.8 queue` | Implementación de colas FIFO/LIFO, utilizadas en algoritmos de búsqueda y encadenamiento. |
+| `1.9 time` | Medición de tiempos de ejecución y simulaciones. |
+| `1.10 os` | Interacción con el sistema de archivos para lectura/escritura de datos. |
+| `1.11 json` | Manipulación de archivos JSON para almacenamiento estructurado de datos. |
+| `1.12 xml.etree.ElementTree` | Lectura y escritura de archivos XML, usados en conocimiento estructurado. |
 
 ---
 
